@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ms\u0131\\source\\repos\\UcakBiletiOdev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1696303-26CF-4458-A37E-2E5ACC192341}|UcakBiletiOdev\\UcakBiletiOdev.csproj|c:\\users\\ms\u0131\\source\\repos\\ucakbiletiodev\\ucakbiletiodev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1696303-26CF-4458-A37E-2E5ACC192341}|UcakBiletiOdev\\UcakBiletiOdev.csproj|solutionrelative:ucakbiletiodev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1696303-26CF-4458-A37E-2E5ACC192341}|UcakBiletiOdev\\UcakBiletiOdev.csproj|c:\\users\\ms\u0131\\source\\repos\\ucakbiletiodev\\ucakbiletiodev\\db\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1696303-26CF-4458-A37E-2E5ACC192341}|UcakBiletiOdev\\UcakBiletiOdev.csproj|solutionrelative:ucakbiletiodev\\db\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1696303-26CF-4458-A37E-2E5ACC192341}|UcakBiletiOdev\\UcakBiletiOdev.csproj|c:\\users\\ms\u0131\\source\\repos\\ucakbiletiodev\\ucakbiletiodev\\service\\yolculistesigoruntuleisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1696303-26CF-4458-A37E-2E5ACC192341}|UcakBiletiOdev\\UcakBiletiOdev.csproj|solutionrelative:ucakbiletiodev\\service\\yolculistesigoruntuleisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1696303-26CF-4458-A37E-2E5ACC192341}|UcakBiletiOdev\\UcakBiletiOdev.csproj|c:\\users\\ms\u0131\\source\\repos\\ucakbiletiodev\\ucakbiletiodev\\service\\yolcukaydet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1696303-26CF-4458-A37E-2E5ACC192341}|UcakBiletiOdev\\UcakBiletiOdev.csproj|solutionrelative:ucakbiletiodev\\service\\yolcukaydet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1696303-26CF-4458-A37E-2E5ACC192341}|UcakBiletiOdev\\UcakBiletiOdev.csproj|c:\\users\\ms\u0131\\source\\repos\\ucakbiletiodev\\ucakbiletiodev\\controller\\yolculistesigoruntule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1696303-26CF-4458-A37E-2E5ACC192341}|UcakBiletiOdev\\UcakBiletiOdev.csproj|solutionrelative:ucakbiletiodev\\controller\\yolculistesigoruntule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1696303-26CF-4458-A37E-2E5ACC192341}|UcakBiletiOdev\\UcakBiletiOdev.csproj|c:\\users\\ms\u0131\\source\\repos\\ucakbiletiodev\\ucakbiletiodev\\entity\\yolcuozellikleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1696303-26CF-4458-A37E-2E5ACC192341}|UcakBiletiOdev\\UcakBiletiOdev.csproj|solutionrelative:ucakbiletiodev\\entity\\yolcuozellikleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1696303-26CF-4458-A37E-2E5ACC192341}|UcakBiletiOdev\\UcakBiletiOdev.csproj|c:\\users\\ms\u0131\\source\\repos\\ucakbiletiodev\\ucakbiletiodev\\controller\\stokbelirleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1696303-26CF-4458-A37E-2E5ACC192341}|UcakBiletiOdev\\UcakBiletiOdev.csproj|solutionrelative:ucakbiletiodev\\controller\\stokbelirleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1696303-26CF-4458-A37E-2E5ACC192341}|UcakBiletiOdev\\UcakBiletiOdev.csproj|c:\\users\\ms\u0131\\source\\repos\\ucakbiletiodev\\ucakbiletiodev\\service\\stokbelirleme\u0130si.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1696303-26CF-4458-A37E-2E5ACC192341}|UcakBiletiOdev\\UcakBiletiOdev.csproj|solutionrelative:ucakbiletiodev\\service\\stokbelirleme\u0130si.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1696303-26CF-4458-A37E-2E5ACC192341}|UcakBiletiOdev\\UcakBiletiOdev.csproj|c:\\users\\ms\u0131\\source\\repos\\ucakbiletiodev\\ucakbiletiodev\\entity\\ucakbiletistok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1696303-26CF-4458-A37E-2E5ACC192341}|UcakBiletiOdev\\UcakBiletiOdev.csproj|solutionrelative:ucakbiletiodev\\entity\\ucakbiletistok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1696303-26CF-4458-A37E-2E5ACC192341}|UcakBiletiOdev\\UcakBiletiOdev.csproj|c:\\users\\ms\u0131\\source\\repos\\ucakbiletiodev\\ucakbiletiodev\\service\\stokkontrol\u0130si.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1696303-26CF-4458-A37E-2E5ACC192341}|UcakBiletiOdev\\UcakBiletiOdev.csproj|solutionrelative:ucakbiletiodev\\service\\stokkontrol\u0130si.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1696303-26CF-4458-A37E-2E5ACC192341}|UcakBiletiOdev\\UcakBiletiOdev.csproj|c:\\users\\ms\u0131\\source\\repos\\ucakbiletiodev\\ucakbiletiodev\\controller\\stokkontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1696303-26CF-4458-A37E-2E5ACC192341}|UcakBiletiOdev\\UcakBiletiOdev.csproj|solutionrelative:ucakbiletiodev\\controller\\stokkontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1696303-26CF-4458-A37E-2E5ACC192341}|UcakBiletiOdev\\UcakBiletiOdev.csproj|c:\\users\\ms\u0131\\source\\repos\\ucakbiletiodev\\ucakbiletiodev\\service\\yonetici\u0130sleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1696303-26CF-4458-A37E-2E5ACC192341}|UcakBiletiOdev\\UcakBiletiOdev.csproj|solutionrelative:ucakbiletiodev\\service\\yonetici\u0130sleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1696303-26CF-4458-A37E-2E5ACC192341}|UcakBiletiOdev\\UcakBiletiOdev.csproj|c:\\users\\ms\u0131\\source\\repos\\ucakbiletiodev\\ucakbiletiodev\\controller\\yolcukaydetme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1696303-26CF-4458-A37E-2E5ACC192341}|UcakBiletiOdev\\UcakBiletiOdev.csproj|solutionrelative:ucakbiletiodev\\controller\\yolcukaydetme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StokBelirleme\u0130si.cs",
+              "DocumentMoniker": "C:\\Users\\ms\u0131\\source\\repos\\UcakBiletiOdev\\UcakBiletiOdev\\service\\StokBelirleme\u0130si.cs",
+              "RelativeDocumentMoniker": "UcakBiletiOdev\\service\\StokBelirleme\u0130si.cs",
+              "ToolTip": "C:\\Users\\ms\u0131\\source\\repos\\UcakBiletiOdev\\UcakBiletiOdev\\service\\StokBelirleme\u0130si.cs",
+              "RelativeToolTip": "UcakBiletiOdev\\service\\StokBelirleme\u0130si.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T11:16:38.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UcakBiletiStok.cs",
+              "DocumentMoniker": "C:\\Users\\ms\u0131\\source\\repos\\UcakBiletiOdev\\UcakBiletiOdev\\entity\\UcakBiletiStok.cs",
+              "RelativeDocumentMoniker": "UcakBiletiOdev\\entity\\UcakBiletiStok.cs",
+              "ToolTip": "C:\\Users\\ms\u0131\\source\\repos\\UcakBiletiOdev\\UcakBiletiOdev\\entity\\UcakBiletiStok.cs",
+              "RelativeToolTip": "UcakBiletiOdev\\entity\\UcakBiletiStok.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T11:14:01.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StokKontrol\u0130si.cs",
+              "DocumentMoniker": "C:\\Users\\ms\u0131\\source\\repos\\UcakBiletiOdev\\UcakBiletiOdev\\service\\StokKontrol\u0130si.cs",
+              "RelativeDocumentMoniker": "UcakBiletiOdev\\service\\StokKontrol\u0130si.cs",
+              "ToolTip": "C:\\Users\\ms\u0131\\source\\repos\\UcakBiletiOdev\\UcakBiletiOdev\\service\\StokKontrol\u0130si.cs",
+              "RelativeToolTip": "UcakBiletiOdev\\service\\StokKontrol\u0130si.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:36:01.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "C:\\Users\\ms\u0131\\source\\repos\\UcakBiletiOdev\\UcakBiletiOdev\\db\\DataBase.cs",
+              "RelativeDocumentMoniker": "UcakBiletiOdev\\db\\DataBase.cs",
+              "ToolTip": "C:\\Users\\ms\u0131\\source\\repos\\UcakBiletiOdev\\UcakBiletiOdev\\db\\DataBase.cs",
+              "RelativeToolTip": "UcakBiletiOdev\\db\\DataBase.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T06:31:53.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ms\u0131\\source\\repos\\UcakBiletiOdev\\UcakBiletiOdev\\Program.cs",
+              "RelativeDocumentMoniker": "UcakBiletiOdev\\Program.cs",
+              "ToolTip": "C:\\Users\\ms\u0131\\source\\repos\\UcakBiletiOdev\\UcakBiletiOdev\\Program.cs",
+              "RelativeToolTip": "UcakBiletiOdev\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T06:08:53.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StokBelirleme.cs",
+              "DocumentMoniker": "C:\\Users\\ms\u0131\\source\\repos\\UcakBiletiOdev\\UcakBiletiOdev\\controller\\StokBelirleme.cs",
+              "RelativeDocumentMoniker": "UcakBiletiOdev\\controller\\StokBelirleme.cs",
+              "ToolTip": "C:\\Users\\ms\u0131\\source\\repos\\UcakBiletiOdev\\UcakBiletiOdev\\controller\\StokBelirleme.cs",
+              "RelativeToolTip": "UcakBiletiOdev\\controller\\StokBelirleme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:55:12.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "YolcuListesiGoruntuleIsi.cs",
+              "DocumentMoniker": "C:\\Users\\ms\u0131\\source\\repos\\UcakBiletiOdev\\UcakBiletiOdev\\service\\YolcuListesiGoruntuleIsi.cs",
+              "RelativeDocumentMoniker": "UcakBiletiOdev\\service\\YolcuListesiGoruntuleIsi.cs",
+              "ToolTip": "C:\\Users\\ms\u0131\\source\\repos\\UcakBiletiOdev\\UcakBiletiOdev\\service\\YolcuListesiGoruntuleIsi.cs",
+              "RelativeToolTip": "UcakBiletiOdev\\service\\YolcuListesiGoruntuleIsi.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T10:58:51.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "YolcuOzellikleri.cs",
+              "DocumentMoniker": "C:\\Users\\ms\u0131\\source\\repos\\UcakBiletiOdev\\UcakBiletiOdev\\entity\\YolcuOzellikleri.cs",
+              "RelativeDocumentMoniker": "UcakBiletiOdev\\entity\\YolcuOzellikleri.cs",
+              "ToolTip": "C:\\Users\\ms\u0131\\source\\repos\\UcakBiletiOdev\\UcakBiletiOdev\\entity\\YolcuOzellikleri.cs",
+              "RelativeToolTip": "UcakBiletiOdev\\entity\\YolcuOzellikleri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T06:12:48.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "YolcuListesiGoruntule.cs",
+              "DocumentMoniker": "C:\\Users\\ms\u0131\\source\\repos\\UcakBiletiOdev\\UcakBiletiOdev\\controller\\YolcuListesiGoruntule.cs",
+              "RelativeDocumentMoniker": "UcakBiletiOdev\\controller\\YolcuListesiGoruntule.cs",
+              "ToolTip": "C:\\Users\\ms\u0131\\source\\repos\\UcakBiletiOdev\\UcakBiletiOdev\\controller\\YolcuListesiGoruntule.cs",
+              "RelativeToolTip": "UcakBiletiOdev\\controller\\YolcuListesiGoruntule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T10:56:01.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "YolcuKaydet.cs",
+              "DocumentMoniker": "C:\\Users\\ms\u0131\\source\\repos\\UcakBiletiOdev\\UcakBiletiOdev\\service\\YolcuKaydet.cs",
+              "RelativeDocumentMoniker": "UcakBiletiOdev\\service\\YolcuKaydet.cs",
+              "ToolTip": "C:\\Users\\ms\u0131\\source\\repos\\UcakBiletiOdev\\UcakBiletiOdev\\service\\YolcuKaydet.cs",
+              "RelativeToolTip": "UcakBiletiOdev\\service\\YolcuKaydet.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T06:05:05.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StokKontrol.cs",
+              "DocumentMoniker": "C:\\Users\\ms\u0131\\source\\repos\\UcakBiletiOdev\\UcakBiletiOdev\\controller\\StokKontrol.cs",
+              "RelativeDocumentMoniker": "UcakBiletiOdev\\controller\\StokKontrol.cs",
+              "ToolTip": "C:\\Users\\ms\u0131\\source\\repos\\UcakBiletiOdev\\UcakBiletiOdev\\controller\\StokKontrol.cs",
+              "RelativeToolTip": "UcakBiletiOdev\\controller\\StokKontrol.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:34:48.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Yonetici\u0130sleri.cs",
+              "DocumentMoniker": "C:\\Users\\ms\u0131\\source\\repos\\UcakBiletiOdev\\UcakBiletiOdev\\service\\Yonetici\u0130sleri.cs",
+              "RelativeDocumentMoniker": "UcakBiletiOdev\\service\\Yonetici\u0130sleri.cs",
+              "ToolTip": "C:\\Users\\ms\u0131\\source\\repos\\UcakBiletiOdev\\UcakBiletiOdev\\service\\Yonetici\u0130sleri.cs",
+              "RelativeToolTip": "UcakBiletiOdev\\service\\Yonetici\u0130sleri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:35:45.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "YolcuKaydetme.cs",
+              "DocumentMoniker": "C:\\Users\\ms\u0131\\source\\repos\\UcakBiletiOdev\\UcakBiletiOdev\\controller\\YolcuKaydetme.cs",
+              "RelativeDocumentMoniker": "UcakBiletiOdev\\controller\\YolcuKaydetme.cs",
+              "ToolTip": "C:\\Users\\ms\u0131\\source\\repos\\UcakBiletiOdev\\UcakBiletiOdev\\controller\\YolcuKaydetme.cs",
+              "RelativeToolTip": "UcakBiletiOdev\\controller\\YolcuKaydetme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T06:00:12.383Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

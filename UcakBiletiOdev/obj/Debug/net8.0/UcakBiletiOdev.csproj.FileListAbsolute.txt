@@ -1,0 +1,14 @@
+C:\Users\msı\source\repos\UcakBiletiOdev\UcakBiletiOdev\bin\Debug\net8.0\UcakBiletiOdev.exe
+C:\Users\msı\source\repos\UcakBiletiOdev\UcakBiletiOdev\bin\Debug\net8.0\UcakBiletiOdev.deps.json
+C:\Users\msı\source\repos\UcakBiletiOdev\UcakBiletiOdev\bin\Debug\net8.0\UcakBiletiOdev.runtimeconfig.json
+C:\Users\msı\source\repos\UcakBiletiOdev\UcakBiletiOdev\bin\Debug\net8.0\UcakBiletiOdev.dll
+C:\Users\msı\source\repos\UcakBiletiOdev\UcakBiletiOdev\bin\Debug\net8.0\UcakBiletiOdev.pdb
+C:\Users\msı\source\repos\UcakBiletiOdev\UcakBiletiOdev\obj\Debug\net8.0\UcakBiletiOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msı\source\repos\UcakBiletiOdev\UcakBiletiOdev\obj\Debug\net8.0\UcakBiletiOdev.AssemblyInfoInputs.cache
+C:\Users\msı\source\repos\UcakBiletiOdev\UcakBiletiOdev\obj\Debug\net8.0\UcakBiletiOdev.AssemblyInfo.cs
+C:\Users\msı\source\repos\UcakBiletiOdev\UcakBiletiOdev\obj\Debug\net8.0\UcakBiletiOdev.csproj.CoreCompileInputs.cache
+C:\Users\msı\source\repos\UcakBiletiOdev\UcakBiletiOdev\obj\Debug\net8.0\UcakBiletiOdev.dll
+C:\Users\msı\source\repos\UcakBiletiOdev\UcakBiletiOdev\obj\Debug\net8.0\refint\UcakBiletiOdev.dll
+C:\Users\msı\source\repos\UcakBiletiOdev\UcakBiletiOdev\obj\Debug\net8.0\UcakBiletiOdev.pdb
+C:\Users\msı\source\repos\UcakBiletiOdev\UcakBiletiOdev\obj\Debug\net8.0\UcakBiletiOdev.genruntimeconfig.cache
+C:\Users\msı\source\repos\UcakBiletiOdev\UcakBiletiOdev\obj\Debug\net8.0\ref\UcakBiletiOdev.dll
